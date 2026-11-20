@@ -2,8 +2,6 @@
 
 Luka Gobejishvili
 
-Video overview: (https://youtu.be/SSfIXhz75XQ)
-
 ## Scope
 
 DataTrust is a relational database designed to help organizations monitor data quality and manage issues affecting business information. Organizations depend on data from customer, finance, inventory, and human resources systems, but this information can be incomplete, duplicated, inconsistent, outdated, or invalid. DataTrust provides a centralized record of data sources, assets, validation rules, check results, identified issues, and corrective actions.
